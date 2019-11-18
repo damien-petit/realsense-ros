@@ -1,4 +1,7 @@
 # ROS Wrapper for Intel&reg; RealSense&trade; Devices
+
+Tested in 2019-11-15.
+
 These are packages for using Intel RealSense cameras (D400 series SR300 camera and T265 Tracking Module) with ROS.
 
 LibRealSense supported version: v2.25.0 (see [realsense2_camera release notes](https://github.com/IntelRealSense/realsense-ros/releases))
